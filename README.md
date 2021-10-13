@@ -79,14 +79,14 @@ Organisation | GitHub | Format
 |IMA data from American Art|https://github.com/american-art/ima|
 |Linked Art Transformation Jupyter Notebook|https://github.com/tgra/Linked-Art-Transformation-Exemplar-Jupyter-Notebook|
 |Introduction to Linked Art Model|https://www.slideshare.net/azaroth42/introduction-to-linked-art-model|
-|LinkedArt/JSON at master · IMAmuseum/LinkedArt|https://github.com/IMAmuseum/LinkedArt,"Transforming IMA objects, creators, and exhibitions data to the Linked Art data model. - LinkedArt/JSON at master · IMAmuseum/LinkedArt",|
-|LinkedArt/JSON at master · IMAmuseum/LinkedArt|https://github.com/IMAmuseum/LinkedArt,"Transforming IMA objects, creators, and exhibitions data to the Linked Art data model. - LinkedArt/JSON at master · IMAmuseum/LinkedArt",|
+|LinkedArt/JSON at master · IMAmuseum/LinkedArt|https://github.com/IMAmuseum/LinkedArt|"Transforming IMA objects, creators, and exhibitions data to the Linked Art data model. - LinkedArt/JSON at master · IMAmuseum/LinkedArt"|
+|LinkedArt/JSON at master · IMAmuseum/LinkedArt|https://github.com/IMAmuseum/LinkedArt|"Transforming IMA objects, creators, and exhibitions data to the Linked Art data model. - LinkedArt/JSON at master · IMAmuseum/LinkedArt"|
 |Getty Photo Archive Mapping|https://linked.art/cookbook/getty/photoarchive/|
 |LUX Linked.Art Mapping|https://linked.art/cookbook/yale/lux/|
 |National Gallery of Art - documented transformation|https://linked.art/cookbook/nga/ngacsv.pdf|
 |Dynamic Simple Modelling|https://research.ng-london.org.uk/modelling/|
 |Europeana APIs|https://pro.europeana.eu/page/apis|Europeana APIs allow you to build applications that use the wealth of our collections drawn from the major museums and galleries across Europe.,|
-|"Home - LC Linked Data Service: Authorities and Vocabularies | Library of Congress, from LC Linked Data Service: Authorities and Vocabularies (Library of Congress)"|https://id.loc.gov/,"The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. This includes data values and the controlled vocabularies that house them. Datasets available include LCSH, BIBFRAME, LC Name Authorities, LC Classification, MARC codes, PREMIS vocabularies, ISO language codes, and more.",|
+|Home - LC Linked Data Service: Authorities and Vocabularies Library of Congress, from LC Linked Data Service: Authorities and Vocabularies (Library of Congress)|https://id.loc.gov/|The Linked Data Service provides access to commonly found standards and vocabularies promulgated by the Library of Congress. This includes data values and the controlled vocabularies that house them. Datasets available include LCSH, BIBFRAME, LC Name Authorities, LC Classification, MARC codes, PREMIS vocabularies, ISO language codes, and more.|
 |Getty Union List of Artist Names (Research at the Getty)|https://www.getty.edu/research/tools/vocabularies/ulan/index.html|Union List of Artist Names® (ULAN) is a structured vocabulary of artist names and biographical information.,|
 |Cultural Objects Name Authority (Getty Research Institute)|https://getty.edu/research/tools/vocabularies/cona|
 |Linked Art data model|https://linked.art/model/|
